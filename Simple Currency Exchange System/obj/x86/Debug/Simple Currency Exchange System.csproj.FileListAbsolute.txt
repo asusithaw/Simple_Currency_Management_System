@@ -1,0 +1,14 @@
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\bin\Debug\Simple Currency Exchange System.exe
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\bin\Debug\Simple Currency Exchange System.pdb
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple Currency Exchange System.csprojResolveAssemblyReference.cache
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.UI.Currencies.CurrencyEditorForm.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.UI.Currencies.CurrencyListForm.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.DealsListForm.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.LoginForm.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.MainForm.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.Properties.Resources.resources
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple Currency Exchange System.csproj.GenerateResource.Cache
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple Currency Exchange System.exe.licenses
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple Currency Exchange System.exe
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple Currency Exchange System.pdb
+C:\Users\Susitha Athapaththu\Documents\Visual Studio 2010\Projects\winforms\Simple Currency Exchange System\Simple Currency Exchange System\obj\x86\Debug\Simple_Currency_Exchange_System.UI.Deals.DealEditorForm.resources
